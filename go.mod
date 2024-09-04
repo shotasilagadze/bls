@@ -1,4 +1,4 @@
-module github.com/Giulio2002/bls
+module github.com/shotasilagadze/bls
 
 go 1.18
 

@@ -3,7 +3,7 @@ package bls_test
 import (
 	"testing"
 
-	"github.com/Giulio2002/bls"
+	"github.com/shotasilagadze/bls"
 	"github.com/stretchr/testify/require"
 )
 
